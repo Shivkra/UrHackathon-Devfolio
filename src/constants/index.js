@@ -112,6 +112,11 @@ export const clients3 = [
     logo: polk,
     link: "https://www.polkadotindia.org/",
   },
+  {
+    id: "client-4",
+    logo: lumos,
+    link: "https://www.lumoslabs.co/",
+  },
 ];
 
 export const clients4 = [
@@ -147,11 +152,6 @@ export const clients4 = [
   },
   {
     id: "client-7",
-    logo: lumos,
-    link: "https://www.lumoslabs.co/",
-  },
-  {
-    id: "client-8",
     logo: duo,
     link: "https://www.duolearn.tech/",
   },
